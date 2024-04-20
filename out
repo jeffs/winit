@@ -1,0 +1,136 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.05s
+     Running `target/debug/examples/hide_cursor`
+TRACE [winit::platform_impl::platform::window] Triggered `WinitWindow::new`
+TRACE [winit::platform_impl::platform::window] Locked shared state in `init`
+TRACE [winit::platform_impl::platform::window] Unlocked shared state in `init`
+TRACE [winit::platform_impl::platform::window] Locked shared state in `set_option_as_alt`
+TRACE [winit::platform_impl::platform::window] Unlocked shared state in `set_option_as_alt`
+TRACE [winit::platform_impl::platform::view] Triggered `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Completed `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Triggered `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Completed `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Triggered `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Completed `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Triggered `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Completed `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Triggered `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Completed `validAttributesForMarkedText`
+TRACE [winit::platform_impl::platform::view] Triggered `frameDidChange:`
+TRACE [winit::platform_impl::platform::view] Completed `frameDidChange:`
+TRACE [winit::platform_impl::platform::view] Triggered `viewDidMoveToWindow`
+TRACE [winit::platform_impl::platform::view] Completed `viewDidMoveToWindow`
+TRACE [winit::platform_impl::platform::window] Locked shared state in `WinitWindow::new`
+TRACE [winit::platform_impl::platform::window] Unlocked shared state in `WinitWindow::new`
+TRACE [winit::platform_impl::platform::window] Locked shared state in `set_fullscreen`
+TRACE [winit::platform_impl::platform::window] Unlocked shared state in `set_fullscreen`
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeMainWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeMainWindow`
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::view] Triggered `acceptsFirstResponder`
+TRACE [winit::platform_impl::platform::view] Completed `acceptsFirstResponder`
+TRACE [winit::platform_impl::platform::window] Completed `WinitWindow::new`
+TRACE [winit::platform_impl::platform::view] Triggered `resetCursorRects`
+TRACE [winit::platform_impl::platform::view] Completed `resetCursorRects`
+TRACE [winit::platform_impl::platform::view] Triggered `drawRect:`
+Hiding cursor...OK (1)
+TRACE [winit::platform_impl::platform::view] Completed `drawRect:`
+TRACE [winit::platform_impl::platform::app_delegate] Triggered `applicationDidFinishLaunching:`
+TRACE [winit::platform_impl::platform::app_state] Activating visible window
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeMainWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeMainWindow`
+TRACE [winit::platform_impl::platform::window] Triggered `canBecomeKeyWindow`
+TRACE [winit::platform_impl::platform::window] Completed `canBecomeKeyWindow`
+Hiding cursor...OK (2)
+Hiding cursor...OK (3)
+TRACE [winit::platform_impl::platform::app_delegate] Completed `applicationDidFinishLaunching:`
+Hiding cursor...OK (4)
+Hiding cursor...OK (5)
+Hiding cursor...OK (6)
+Hiding cursor...OK (7)
+Hiding cursor...OK (8)
+Hiding cursor...OK (9)
+Hiding cursor...OK (10)
+TRACE [winit::platform_impl::platform::window_delegate] Triggered `windowDidBecomeKey:`
+TRACE [winit::platform_impl::platform::window_delegate] Completed `windowDidBecomeKey:`
+Hiding cursor...OK (11)
+Hiding cursor...OK (12)
+Hiding cursor...OK (13)
+TRACE [winit::platform_impl::platform::window_delegate] Triggered `windowDidChangeOcclusionState:`
+TRACE [winit::platform_impl::platform::window_delegate] Completed `windowDidChangeOcclusionState:`
+Hiding cursor...OK (14)
+Hiding cursor...OK (15)
+Hiding cursor...OK (16)
+Hiding cursor...OK (17)
+Hiding cursor...OK (18)
+Hiding cursor...OK (19)
+Hiding cursor...OK (20)
+Hiding cursor...OK (21)
+Hiding cursor...OK (22)
+Hiding cursor...OK (23)
+Hiding cursor...OK (24)
+Hiding cursor...OK (25)
+Hiding cursor...OK (26)
+Hiding cursor...OK (27)
+Hiding cursor...OK (28)
+Hiding cursor...OK (29)
+Hiding cursor...OK (30)
+Hiding cursor...OK (31)
+Hiding cursor...OK (32)
+Hiding cursor...OK (33)
+Hiding cursor...OK (34)
+Hiding cursor...OK (35)
+Hiding cursor...OK (36)
+Hiding cursor...OK (37)
+Hiding cursor...OK (38)
+Hiding cursor...OK (39)
+Hiding cursor...OK (40)
+Hiding cursor...OK (41)
+Hiding cursor...OK (42)
+Hiding cursor...OK (43)
+Hiding cursor...OK (44)
+Hiding cursor...OK (45)
+Hiding cursor...OK (46)
+Hiding cursor...OK (47)
+Hiding cursor...OK (48)
+Hiding cursor...OK (49)
+Hiding cursor...OK (50)
+Hiding cursor...OK (51)
+Hiding cursor...OK (52)
+Hiding cursor...OK (53)
+Hiding cursor...OK (54)
+Hiding cursor...OK (55)
+Hiding cursor...OK (56)
+Hiding cursor...OK (57)
+Hiding cursor...OK (58)
+Hiding cursor...OK (59)
+Hiding cursor...OK (60)
+Hiding cursor...OK (61)
+Hiding cursor...OK (62)
+Hiding cursor...OK (63)
+Hiding cursor...OK (64)
+Hiding cursor...OK (65)
+Hiding cursor...OK (66)
+Hiding cursor...OK (67)
+Hiding cursor...OK (68)
+Hiding cursor...OK (69)
+Hiding cursor...OK (70)
+Hiding cursor...OK (71)
+Hiding cursor...OK (72)
+Hiding cursor...OK (73)
+Hiding cursor...OK (74)
+Hiding cursor...OK (75)
+Hiding cursor...OK (76)
+Hiding cursor...OK (77)
+Hiding cursor...OK (78)
+Hiding cursor...OK (79)
+Hiding cursor...OK (80)
+Hiding cursor...OK (81)
+Hiding cursor...OK (82)
+Hiding cursor...OK (83)
+Hiding cursor...OK (84)
+TRACE [winit::platform_impl::platform::view] Triggered `resetCursorRects`

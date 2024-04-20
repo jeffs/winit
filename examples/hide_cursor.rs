@@ -10,9 +10,10 @@ fn main() -> Result<(), impl std::error::Error> {
     let window = WindowBuilder::new().build(&event_loop).unwrap();
     window.set_title("Hide cursor");
 
+    let mut count = 0..;
     event_loop.run(move |_event, _elwt| {
         eprint!("Hiding cursor...");
         window.set_cursor_visible(false);
-        eprintln!("OK");
+        eprintln!("OK ({})", count.next().unwrap());
     })
 }
